@@ -5,7 +5,7 @@ Node.js client for Bitpay API, without dependencies
 ### Usage
   * Add dependency 'bitpay' in your package.json file.
   * Require 'bitpay' in your file.
-  * Call to <a href="#create-invoice">createInvoice</a> to create a new invoice and to <a href="#get-invoice-status">getInvoiceStatus</a> to get info about the invoice. If you get an error, you can check the response too for more details and better error handling.
+  * Call to <a href="#createinvoice">createInvoice</a> to create a new invoice and to <a href="#getinvoicestatus">getInvoiceStatus</a> to get info about the invoice. If you get an error, you can check the response too for more details and better error handling.
 
 #### CreateInvoice
 ```js
