@@ -1,0 +1,23 @@
+{
+    "name" : "bitpay",
+    "version": "0.0.2",
+    "author" : "Gonzalo Aguirre",
+    "description" : "Bitpay API client in node.js",
+    "main": "./lib/bitpay.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ideame/node-bitpay.git"
+    },
+    "keywords": [ 
+        "bitpay", 
+        "bitcoin", 
+        "api" 
+    ],
+    "devDependencies": {
+        "mocha": "1.10.0",
+        "nock": "0.18.2"
+    },
+    "engine" : {
+        "node": ">=0.6"
+    }
+}
